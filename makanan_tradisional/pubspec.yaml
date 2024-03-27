@@ -1,0 +1,30 @@
+name: makanan_tradisional
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/1.Nasi Krawu.png
+  - assets/2. Pudak.png
+  - assets/3. Sego Roomo.png
+  - assets/4. Otak-Otak Bandeng.png
+  - assets/5. Sego Karak.png
+  - assets/6. Es Dawet Siwalan.png
+  - assets/7. Sanggring(Kolak Ayam).png
+  - assets/8. Bonggolan.png
+  - assets/9. Sego Menir.png
+  - assets/10. legen.png
